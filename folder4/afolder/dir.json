@@ -1,0 +1,11 @@
+{
+	"index": "",
+	"required": {
+		"files": [],
+		"directories": []
+	},
+	"other": {
+		"files": ["onefile"],
+		"directories": []
+	}
+}

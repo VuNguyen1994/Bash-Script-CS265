@@ -1,0 +1,11 @@
+{
+	"index": "",
+	"required": {
+		"files": ["b","c"],
+		"directories": []
+	},
+	"other": {
+		"files": ["a","kurt.xml"],
+		"directories": []
+	}
+}

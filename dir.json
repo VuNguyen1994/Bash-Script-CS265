@@ -1,0 +1,11 @@
+{
+	"index": "",
+	"required": {
+		"files": [],
+		"directories": []
+	},
+	"other": {
+		"files": ["a1-top","filter.awk","README.txt"],
+		"directories": ["Dir2","folder1","folder2","folder4"]
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"index": "labs.html",
+	"required": {
+		"files": ["kurt.sh"],
+		"directories": ["3"]
+	},
+	"other": {
+		"files": [],
+		"directories": ["1","2"]
+	}
+}
